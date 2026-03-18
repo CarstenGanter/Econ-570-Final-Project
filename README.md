@@ -17,13 +17,6 @@ necessary for deep tournament runs.
 - **Kaggle dataset:** College basketball team stats and tournament outcomes 
   (2013–2025), sourced from [kaggle.com](https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset)
 
-## Repository Structure
-project/
-├── data/
-│   ├── cbb.csv                    # Kaggle dataset
-│   └── cbb_conference_stats.csv   # Scraped sports-reference data
-├── final_project.ipynb                 # Full analysis
-└── README.md
 
 ## How to Run
 1. Clone this repository
